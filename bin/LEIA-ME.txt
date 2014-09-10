@@ -1,0 +1,48 @@
+ ____________________________________
+/./---------------\./--------------\.\
+|.|---------------|.|--- ______----|.|
+|.|---------------|.|---|......|---|.|
+|..\-------------/..|---|......|---|.|
+|.....\-------/.....|---|______|---|.|
+|......|-----|......|--------------|.|
+|......|-----|......|--------------|.|
+|......|-----|......|-------------/..|
+|......|-----|......|-----/..........|
+|......|-----|......|-----|..........|
+|......|-----|......|-----|..........|
+|......|-----|......|-----|..........|
+|......\-----/......\-----/..........|
+|....................................|
+            TIBIAPATH.COM
+ \__________________________________/
+
+Arquivo retirado do site http://tibiapath.com
+Seu site de Tibia e OTServ !
+Como fazer seu (Tibia Pirata, jogo online) e muito mais ! 
+Mais de 80 quests de Tibia pra vocês !      
+
++===========+
++Nome       +
++===========+
+TP Vendas 1.0 (Todas as versões)
+
++===========+
++Sobre      +
++===========+
+Administre seus items à venda, faça contas de quanto ganharia
+se vendesse todos, adicione comentários adicionais e deixe
+gravado em um banco de dados, com imagem, você também pode
+adicionar as suas próprias imagens, confira.
+
++===========+
++Instruções +
++===========+
+Não há instruções, apenas execute o programa, TP Vendas 1.0.exe,
+dentro da pasta TP Vendas.
+
++===========+
++Comentários+
++===========+
+Créditos à mim, TibiaPath(Érick Oliveira Rodrigues), desenvolvedor
+do programa com banco de dados, veja também os créditos dentro do
+programa, são links para várias partes de nosso site.
